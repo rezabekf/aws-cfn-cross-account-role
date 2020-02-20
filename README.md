@@ -1,0 +1,1 @@
+Granting access to CodeCommit repositories can be quite a lot of clicks in the AWS console. The CloudFormation template will automate the IAM role creation while granting access to only single repository in other AWS account.
